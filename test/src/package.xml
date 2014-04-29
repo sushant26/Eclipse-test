@@ -4,6 +4,10 @@
         <members>AccountEditTest</members>
         <members>AccountHierarchy</members>
         <members>AccountTeamRolesPicklistView</members>
+        <members>ActivityLogsYK</members>
+        <members>Amazon_Cancel</members>
+        <members>Amazon_ConfirmDelete</members>
+        <members>Amazon_ConfirmFileMove</members>
         <name>ApexPage</name>
     </types>
     <version>28.0</version>
