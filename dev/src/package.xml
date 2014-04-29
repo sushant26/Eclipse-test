@@ -3,6 +3,7 @@
     <types>
         <members>AccountAssignmentContactControllerTest1</members>
         <members>AccountContactRoleWrapper</members>
+        <members>adressSearch</members>
         <name>ApexClass</name>
     </types>
     <version>28.0</version>
